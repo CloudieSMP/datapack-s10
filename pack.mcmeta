@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Template's Server Main Data Pack",
+    "pack_format": 105,
+    "min_format": [88, 0],
+    "max_format": [105, 0]
+  }
+}
