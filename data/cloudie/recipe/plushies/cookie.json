@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:white_wool",
+  "result": {
+    "id": "minecraft:echo_shard",
+    "components": {
+      "minecraft:custom_name": "Cookie",
+      "minecraft:lore": ["I like Beauver"],
+      "minecraft:item_model": "cloudie:plushies/cookie",
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    }
+  }
+}
