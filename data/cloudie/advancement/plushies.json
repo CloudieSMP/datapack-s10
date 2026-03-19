@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:echo_shard",
+            "components": {
+                "minecraft:item_model": "cloudie:plushies/star_plushie"
+            }
+        },
+        "title": "Plushies",
+        "description": [
+            "",
+            { 
+                "text": "You can get plushies by crafting Plushie Crates.",
+                "color": "light_purple"
+            }
+        ],
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "cloudie:root",
+    "criteria": { "tick": { "trigger": "minecraft:tick" } }
+}
