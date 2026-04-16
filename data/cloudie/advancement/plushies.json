@@ -3,7 +3,7 @@
         "icon": {
             "id": "minecraft:echo_shard",
             "components": {
-                "minecraft:item_model": "cloudie:plushies/star_plushie"
+                "minecraft:item_model": "cloudie:plushies/star"
             }
         },
         "title": "Plushies",
