@@ -1,13 +1,13 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:lapis_lazuli"
+            "id": "minecraft:diamond_hoe"
         },
-        "title": "/renameitem",
+        "title": "Replanting with a hoe",
         "description": [
             "",
             { 
-                "text": "You can rename items using the /renameitem command.\nCost: 1 lapis",
+                "text": "You can use a hoe to instantly replant crops. (Sweeping Edge makes it better)",
                 "color": "light_purple"
             }
         ],

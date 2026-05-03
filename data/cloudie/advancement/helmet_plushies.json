@@ -1,13 +1,13 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:written_book"
+            "id": "minecraft:netherite_helmet"
         },
-        "title": "/book author/title",
+        "title": "Plushies + Helmets",
         "description": [
             "",
             { 
-                "text": "You can use the /book command to set the author or title of a book.",
+                "text": "In an anvil combine a helmet and a plushie. /stripcosmetic while holding to undo",
                 "color": "light_purple"
             }
         ],
